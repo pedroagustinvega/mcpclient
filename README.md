@@ -1,5 +1,5 @@
 <h1 align="center">⛏️ MCPClient 1.0.1</h1>
-<h3 align="center">Open source Minecraft Pentesting Client</h3>
+<h3 align="center">Open source Minecraft Pentesting Client (Fabric Mod)</h3>
 <br/>
 
 ![MCPClient](https://imgur.com/5F9IAtQ.jpg)
